@@ -99,6 +99,8 @@
     approximately 0.22 seconds to run. I’ve attached screenshots that indicate the run time 
     for the new analysis.
 
+'Show Images
+
  ![](Resources/VBA_Challenge_2017.png)
 
  ![](Resources/VBA_Challenge_2018.png)
