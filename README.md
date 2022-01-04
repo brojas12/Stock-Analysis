@@ -76,9 +76,11 @@
         
         
     Next i
+'Show Images
     
-    ![](Resources/VBA_Challenge_2017.png)
- ![](Resources/VBA_Challenge_2018.png)
+ ![](Resources/VBA_Challenge_2017_Stock_Results.JPG)
+
+ ![](Resources/VBA_Challenge_2018_Stock_Results.JPG)
 
 # Summary
 
@@ -96,4 +98,8 @@
     The module analysis took approximately one second to run, whereas the new analysis took 
     approximately 0.22 seconds to run. I’ve attached screenshots that indicate the run time 
     for the new analysis.
+
+ ![](Resources/VBA_Challenge_2017.png)
+
+ ![](Resources/VBA_Challenge_2018.png)
 
