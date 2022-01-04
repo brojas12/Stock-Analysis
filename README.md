@@ -77,7 +77,8 @@
         
     Next i
     
-    ![This is a alt text.](Stock-Analysis/Resources/VBA_Challenge_2017.png "VBA_Challenge_2017")
+    ![](Resources/VBA_Challenge_2017.png)
+ ![](Resources/VBA_Challenge_2018.png)
 
 # Summary
 
